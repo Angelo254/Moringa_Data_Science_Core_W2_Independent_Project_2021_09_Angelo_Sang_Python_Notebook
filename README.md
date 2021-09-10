@@ -1,0 +1,2 @@
+# Moringa_Data_Science_Core_W2_Independent_Project_2021_09_Angelo_Sang_Python_Notebook
+a) Specifying the Data Analytic Question which individuals are most likely to have or use a bank account.  b) Metric for Success Project will be successful when we are able to accurately answer the business problem from clean data  c) Understanding the context Data to be analyzed is demographic, showing financial services used by individuals across East Africa, from 2016 to 2018.
